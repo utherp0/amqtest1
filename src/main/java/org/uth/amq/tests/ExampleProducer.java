@@ -7,8 +7,8 @@ import javax.naming.*;
 public class ExampleProducer
 {
   private String queueName = "org.uth.testqueue1";
-  private String user = "uther";
-  private String password = "Pendragon1";
+  private String user = "youruser";
+  private String password = "yourpassword";
   
   private String url = "tcp://hostname:61616";
 	
